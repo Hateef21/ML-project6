@@ -1,14 +1,7 @@
 import streamlit as st
 import pickle 
 
-requirements.txt
 
-pandas
-plotly
-streamlit
-yfinance
-pandas-datareader
-prophet
 
 knn=pickle.load(open('kn_classifier.pkl','rb'))
 
